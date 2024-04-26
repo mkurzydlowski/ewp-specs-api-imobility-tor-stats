@@ -3,8 +3,8 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     elementFormDefault="qualified"
 
-    targetNamespace="https://github.com/erasmus-without-paper/ewp-specs-api-imobility-tor-stats/tree/stable-v2"
-    xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-imobility-tor-stats/tree/stable-v2">
+    targetNamespace="https://github.com/erasmus-without-paper/ewp-specs-api-imobility-tor-stats/tree/stable-v1"
+    xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-imobility-tor-stats/tree/stable-v1">
 
     <xs:import
         schemaLocation="https://raw.githubusercontent.com/erasmus-without-paper/ewp-specs-architecture/stable-v1/common-types.xsd"
