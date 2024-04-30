@@ -8,7 +8,7 @@ Incoming Mobility ToRs Stats API
 Summary
 -------
 
-This API allows the client to get the statistics describing ToRs from a local HEI.
+This API allows the client to get the statistics describing ToRs issued by the receiving HEI.
 
 Request method
 --------------
