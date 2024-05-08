@@ -51,10 +51,6 @@
                                         identifiers (e.g. "2010/2011" vs. "2010/2010" or "2011/2011"). This
                                         particular identifier is the year identifier at the *receiving* HEI, not the
                                         sending HEI.
-
-                                        This means that the sending HEI MUST know how the receiving HEI identifies its
-                                        academic years (i.e., whether it lies on the northern or southern hemisphere),
-                                        and be able to match its mobilities with these identifiers.
                                     </xs:documentation>
                                 </xs:annotation>
                             </xs:element>
