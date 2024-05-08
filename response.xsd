@@ -33,7 +33,7 @@
         </xs:annotation>
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="academic-year-tor-stats" minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="academic-year-stats" minOccurs="0" maxOccurs="unbounded">
                     <xs:annotation>
                         <xs:documentation>
                             This element represents a single academic year by which ToRs are grouped.
